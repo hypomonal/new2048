@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4cc9f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="44" fill="url(#g)"/>
+  <text x="96" y="78" font-family="Arial Black,sans-serif" font-size="46" font-weight="900" text-anchor="middle" fill="rgba(255,255,255,0.9)">Ani</text>
+  <text x="96" y="130" font-family="Arial Black,sans-serif" font-size="38" font-weight="900" text-anchor="middle" fill="#fff">Games</text>
+  <text x="96" y="162" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">🎮</text>
+</svg>
